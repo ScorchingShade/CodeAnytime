@@ -21,9 +21,9 @@ their location; and others who are free will join them, promptly
 The idea is to utilise free time productively, instead of wasting it away
 
 The students would be divided into 3 tiers:
-- Tier 1 – Learning from scratch
-- Tier 2 – Having basic knowledge
-- Tier 3 – Having advanced knowledge, preparing for competitions like ICPC
+- Level 1 – Learning from scratch
+- Level 2 – Having basic knowledge
+- Level 3 – Having advanced knowledge, preparing for competitions like ICPC
  
  *The tiers would only be so that a student can give others information about his level of
 command over programming, at present, and students can collaborate accordingly
